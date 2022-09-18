@@ -1,0 +1,480 @@
+
+Excel 
+has a quick customization of tool in top 
+we can either r8 click on stuffs to add it or use dropdown to add
+
+
+
+
+
+
+
+
+components
+
+
+Excel has 3 components
+quick bar
+formulae bar
+ribbon bar
+
+every square in excel is called a sheet
+
+To go to the rock bottom
+ctrl + down arrow
+
+we can have upto 255 sheets
+
+similarly if use ctrl + right arrow
+it takes all the way to end
+
+ctrl+ home brings back to a1
+
+it gets stored as an excel xlxx doc
+
+
+
+
+
+See when taking about entering data
+a1 may have space over b1 but its only available on A1
+to go through col - use tab
+to go through row - use enter
+
+create a monthly budget sheet with months on row and different exercise on columns with total
+
+excel naturally forms numericals right aligned and text left aligned
+
+see by default what happens in excel is they use mmmm-yy so we have to customize it accordingly
+
+Go to custom and change the custom formatting to our wish
+
+Cell refrence - A small concept stating tht which row and column the above set stuff is active
+
+see formulae are usually added up using =  sign
+ see jst using normal values instead of cell refrencing we would end up with static values
+for dynamic values go for cell refrencing
+=1200+90+29 nope instead
+= b1+b4+b34
+
+
+There are 2 types of cell refrencing 
+relative refrencing
+absolute refrencing
+
+see takin abt of relative refrencing
+its always relative to the location
+say the total is sum of stuffs towards its left b5+c5+d5
+see we can copy the formula and it will be jst modify accordingly
+
+we can drag and drop the formula
+
+
+
+When you wanna use a constant value and u wanna to save tht...don't go for relative reference instead go for absolute reference
+it use $e$10 for maintaining it has a constant
+
+PEMDAS
+please excuse my dear aunt sally
+parenthesis exponent multiple divsion addition sub
+
+Automation of formulation - functions
+See talkin abt functions it takes a function name
+and arguments say for addition it takes c5 + c6 two things needed to added =Sum(A5:A6)
+
+see all we have to do is go into formulae and click math and trig and find sum we can either drag or drop or type in for it get performed
+
+
+To find a function very quickly go to insert function and type it we will get 
+Max
+Min
+Count
+AutoSum
+
+see AutoSum
+It helps in calculating all the sum naturally
+but it goes vertical one first but we have to change autosum
+
+See talkin abt autofill all we have to do is jst drug it thts all
+
+Copy and moving a content
+see its jst ctrl c and ctrl v note until marching ants are available we can paste em as much as possible
+
+see inorder to add a column 
+it should be either either
+
+
+ctrl + (on keypad one)
+or ctrl shift + incase if we don't have it
+
+
+simlarly ctrl - to remove stuffs
+jst play with those rows and columns
+
+see we can resize the height and width of the container according to our will and wish
+all we have to do is go to the center of the column once done jst dragg to the preffered height
+if we are focussing on multiple stuffs it takes the max width and performs auto fit
+
+auto fill is done when it is double clicked
+
+if columns are too narrow they will endup with pound symbol
+
+see for hiding a content all we have to do is choose the column once done right click and hide 
+for unhiding stuffs all we have to do is scroll over 2 of them and unhide them
+
+deleting a worksheet is not a undo process so be really carefull of tht
+
+double click the sheet name to rename them as simple as that
+
+use ctrl to move so tht it copies file
+
+We can change the font size of the document as we wish
+
+In terms of font color we have to drag and fill color
+for non contiguous selection press ctrl we can show differences
+
+Border 
+we can give specific border for our needs so tht we can distinguish em
+
+see inorder to give dollar sign we can give it by adding dollar sign or , to remove dollar sign
+
+Incase if u dont find anything jst use comma
+
+see talkin abt percentage we can just use percentage to use it we can increase or decrease the percentage decimal to get more accurate
+
+Format painter
+It is jst works like a copy paste it enhances the speed
+
+To wipe the format
+jst drag it and give clear formats
+
+we can create our own premade style and we can use it accordingl
+
+Merge and center used to align doc in center
+it merges all the cell as one and aligns it to the center
+
+conditional formatting
+see if u wanna highlight something in red and highlight jst give it a conditional formatting
+
+inserting image
+we can jst insert image using the options above either from bing or local
+
+Insert shapes
+We can add shapes and use it to format the document
+we can even manipulate beyond colors like adjusting tail angle so on
+
+SmartArt are used to give diagrams for process flow and so on
+jst pic smartArt we can either promote or depromote stuffs accordingly
+
+bars and chart
+for visual rep we need bars and chart
+its simple all we have to do is drag and highlight then give it a graph
+
+For 2d chart all we have to do is highlight it and chose one graph according to our wish
+
+see takin abt the ribbon
+the ribbon is very dynamic it can change based on what u r working on
+
+For changing the name of the chart double tap on the name if u wanna perform more such actions give + and play with it
+
+Adding and modifying
+The values are circulated by color so we need to adjust them accordingly to show any updates in graph
+
+Adding colors and other formattingg
+Chose the graph...And go to formatting then select it and change the shape fill and other stuffs accordingly
+
+Moving a chart
+in design
+select the chart
+click move location
+then create a new sheet
+
+pie chart is used to store single data more effectively
+it is called in the same way we call the bar plot
+we have switch btw rows and columns to look at the data
+
+print 
+jst its available in home screen were u can get a preview on how printed document will be 
+
+see in printing there are several options including landscape portrait and other stuffs
+jst work with different such functions
+
+Page layout
+it works like a word document in formatting
+
+Header and footer
+See its found very easily on page view
+all we have to do is add the necessary contents found on design
+
+Print area
+we can set and print area accordingly
+so only the selected zone gets printed
+its marked by a green border
+
+Template
+we can use template to so tht we need to do anything from scratch its as simple jst by giving del key
+
+we can make a custom template jst my saving it as a custom xltx file
+
+See there are two important concepts
+there should not be any empty row
+also There should always be an header
+
+The main stuff in list is sorting based on ascending and descending order
+jst go to data and give it a quick sort
+
+
+Multiple level sorting
+click on to the list data tab
+then sort there are 2 such options 
+note it will take last name first then if there is any common name it will solve accordingly
+
+Custom sorting
+we can even sort the stuffs in a custom manner its similarly how multiple level sorting works
+
+Filter
+see we can just use tht funnel filter stuff which pops up icon so tht we can filter everything according our wish
+
+subtotal
+it gives the total of the grp
+but we have subtotal grp which makes it more simpler and easier
+
+Formatting list as a row
+see formatting list as row is a cool stuff coz the data will be updated automatically 
+
+it is found in home
+
+ctrl shift down arrow select all the way till values are there
+
+Finding duplicate value
+its jst by using conditional value then highlight it
+
+Removing duplicate value
+it can be either done by trt the value as a table and then removing it
+or
+in data we can remove it as a duplicate
+
+DSUM
+it is used to sum up based on a cluster
+jst give dsum and then choose the range and what u wanna sum and finally the where u wanna 
+
+ll'ly
+we can do for DAVG
+
+SUBTOTAL
+it has value from 0 - 11 each having seperate stuffs
+then we have to give it a reference
+
+Data cleaning
+We have to clean the data so tht it aint messy
+
+we have to insert data from a premade stuff
+it enables users only to do from what we set
+Data validation can be done easily by going to the data then we have to give data validation
+we can find it for already existed value by giving circle invalid groups
+
+we can make a custom error and make sure developers can ease with tht
+
+we can use this data validation dropdown in a much cooler manner so tht we can change data very quickly
+
+Importing file
+we can import external files like txt, csv
+jst set the delimiters
+
+
+Importing from microsoft access
+if we have access to tht then we can set it by adjusting parametres to our needs
+
+Exporting
+Like importing we can even export files into any format we want
+
+Pivot table
+from detailed data to summarized table sheet is termed as pivot table
+
+Creating a pivottable
+see its on top of the insert
+we can give the necessary data and location 
+on clicking it will take care of stuffs
+
+Then its all abt clicking and dragging
+we have to know where should we drag what should we drag
+
+see in terms of pivot table we may need to change the behavior of tht so we have to drag it and then play accordingly
+
+we can evn create an difference based on previous
+
+Grouping 
+we can group our data jst going to analyze and then using group selection
+
+we can format documents according to our needs
+
+value fields and number format
+
+we can further format stuffs accordingly on design and giving them various styles
+
+Drilled down
+it is used to access data
+jst double click
+
+PIVOT CHART
+we can use the chart option to visualize the data
+
+Filtering
+When talking abt the filtering of data there will be dropdown we have to use it 
+
+Slicer
+This is the new tool select the table click on analyze then slicer
+Then start filtering accordingly
+
+Powerpivot is used to set datamodels
+Tht sets up multiple data
+
+see we have to create a powerpivot model tht holds up the relationship
+We have to add the data model to the powerpivot
+
+now go to the diagram view then drag and drop the relationship btw them
+
+we can create a pivot table from tht powerpivot
+
+we can also perform n number of works like autosum auto avg so on
+
+KPI
+it is used to setup the key process Indicator 
+say if cost is less than 15$ its good more than 50$ its worse like tht
+
+Freeze panes
+it is used to freeze the headers so tht it is easy to sort things off
+
+hiding adv
+we can hide to columns by grouping them which will lead to new group
+
+Printing adv
+we may need our headings to occur
+for tht we can go to page preview and set rows to repeat on top
+
+we can also view the page preview
+page break view to show where it breaks and doesn't
+we can go over and then down to print stuffs accordingly
+
+In some scenarios we need to sum up the entire values from other worksheets so for this case we will be using 3-d formula
+
+its simply using =then going to various sheets to grab and sum it up
+
+Consolidation
+it is used to perform various action among different sheets
+
+
+ADVANCED Concepts
+Name range
+addressing the name instead of row and column is called as a name range
+
+jst grab the weeks which we wanna grab and on top change it to the name u like
+then call tht whenever possible
+
+IF
+if condition is true yes or no
+takes 3 parametres then we have to work accordingly
+found in formulae
+
+Nesting functions
+we can nest one functions inside another
+by jst calling the and we can add upto 255 of those
+
+
+Countif
+counting based on the conditions
+
+
+Sum if
+takes 3 arguments
+range
+which u want
+what u want 
+
+iferror is used along nslookup to jst justify the error
+jst give what u wanna show 
+
+vlookup 
+it goes vertically and finds whatever parameter we jst ask for
+it takes 4 parameter
+
+Hlookup
+it works like vlookup where it goes through horizontal stuffs here
+
+entire excel is a big index we can use it to find the index of element
+
+index finds the name and match finds its location
+
+we can nest index with match
+
+left mid right functions
+All these are text functions helps in grabbing stuffs according left and r8 takes 2 positional arguments whereas mid takes one
+
+Len 
+This helps in giving out the length of the characters in the given text
+
+search 
+can be used along with left and it helps in segregating the value
+we can find the first name using left and giving it a search
+for finding last name we have to use r8 and - the search the length see lastname goes from right to left
+
+concatenate as the name says it helps in adding up the elements
+
+
+Tracing the precedence of the formulae
+it helps to trace how a formulae is been used
+usually arrow indicates the trace precedents
+
+trace precedence and dependence are like arrow tht shows what makes up the formula
+
+watch window pops up a new window through which we can do and watch changes of the values
+
+show formulae shows up all the formulae and jst expands it
+
+see basically every excel sheet is locked we have to remove the lock 
+then protect it by using the review then go through some checks
+
+we can even protect the entire workbook so tht no one will mess with tht
+
+or we can jst protect it with a general lock stuff
+
+
+
+Goal seek is kinda what if function
+PMT helps in calculating the rate of interest and other stuffs
+give it a - to change the value to +
+
+see we will be manually adjusting the value but with the help of excel we dont need to do those
+
+using goal seek we can adjust only one value
+
+
+solver on the other hand can use multiple arguments 
+
+jst activate it and we can fix multiple different arguments 
+
+data table
+first we have to structure the datatables 
+then place the formulae on right top then create a data table then dragging will finish the necessary work
+
+
+scenario manager
+it helps in taking out one worksheet and use different different scenarios with tht
+
+
+Excel Macro
+see it does record all the ongoing operation and when we wanna redo it its jst a click
+
+developers tab
+A location tht contains all the macro tools
+
+see we have to activate the hidden macro tab by right clicking it
+
+macro records every changes it takes few argument
+we have to start the recording and we have to stop the recording once done
+
+vba
+is the place where our codes are located for macro
+then the macro changes are located on to the modules section we have to change it by altering the code
+
+Then we have to create a btn to run macro whenevr it is necessary
